@@ -1,0 +1,20 @@
+{
+  "001": {
+    "id": "001",
+    "perfil": "Pelé",
+    "rank": 0,
+    "pts": 0
+  },
+  "002": {
+    "id": "002",
+    "perfil": "Maradona",
+    "rank": 0,
+    "pts": 0
+  },
+  "003": {
+    "id": "003",
+    "perfil": "Cruyff",
+    "rank": 0,
+    "pts": 0
+  }
+}
